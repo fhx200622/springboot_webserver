@@ -1,8 +1,12 @@
 # springboot_webserver
-implement a springboot_webserver using java
-using gradle to create project and manage dependencies
-using mongodb as database
-using swagger to create api doc file
+implement a springboot_webserver using java  
+
+using gradle to create project and manage dependencies  
+
+using mongodb as database  
+
+using swagger to create api doc file  
+
 it has five functions:
 1.create/delete "student"
 2.create/delete "subject"
